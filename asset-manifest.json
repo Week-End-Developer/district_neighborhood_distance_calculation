@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calculating-distance-between-two-regions/static/css/main.6772aa10.css",
-    "main.js": "/calculating-distance-between-two-regions/static/js/main.4f2c6d8e.js",
-    "static/js/453.bc0283d6.chunk.js": "/calculating-distance-between-two-regions/static/js/453.bc0283d6.chunk.js",
-    "index.html": "/calculating-distance-between-two-regions/index.html",
-    "main.6772aa10.css.map": "/calculating-distance-between-two-regions/static/css/main.6772aa10.css.map",
-    "main.4f2c6d8e.js.map": "/calculating-distance-between-two-regions/static/js/main.4f2c6d8e.js.map",
-    "453.bc0283d6.chunk.js.map": "/calculating-distance-between-two-regions/static/js/453.bc0283d6.chunk.js.map"
+    "main.css": "/district_neighborhood_distance_calculation/static/css/main.6772aa10.css",
+    "main.js": "/district_neighborhood_distance_calculation/static/js/main.e1f73a61.js",
+    "static/js/453.bc0283d6.chunk.js": "/district_neighborhood_distance_calculation/static/js/453.bc0283d6.chunk.js",
+    "index.html": "/district_neighborhood_distance_calculation/index.html",
+    "main.6772aa10.css.map": "/district_neighborhood_distance_calculation/static/css/main.6772aa10.css.map",
+    "main.e1f73a61.js.map": "/district_neighborhood_distance_calculation/static/js/main.e1f73a61.js.map",
+    "453.bc0283d6.chunk.js.map": "/district_neighborhood_distance_calculation/static/js/453.bc0283d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6772aa10.css",
-    "static/js/main.4f2c6d8e.js"
+    "static/js/main.e1f73a61.js"
   ]
 }
